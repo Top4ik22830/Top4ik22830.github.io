@@ -1,0 +1,39 @@
+
+p{
+	font-size: 16pt;
+	font-family: 'dayton', dayton;
+	text-align: center;
+
+
+}
+.image{
+	text-align: center;
+}
+li{
+	text-align: center;
+}
+h2{
+	text-align: center;
+}
+h1{
+	text-align: center;
+	text-decoration: None;
+	background-image: linear-gradient(currentColor, yellow);
+	background-position: 0% 100%;
+	background-repeat: no-repeat;
+	background-size:0% 2px;
+	color: red;
+	font-family: 'Courier New', Courier, monospace;
+
+	transition: background-sise .9s, color 1s, font-family .1s ;
+
+}
+h1:hover {
+
+
+
+
+	background-size: 100% 2px;
+
+	color: green;
+}
